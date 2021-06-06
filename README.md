@@ -2,10 +2,17 @@
 Using Decision Trees and Support Vector Machines to Build a model that determines whether or not a patient's symptoms indicate that the patient has hypothyroidism or not.
 
 1.Defining the Question
+
+
 a) Specifying the Question
+
+
 As a Data Scientist, I have been recruited to work for Nairobi Hospital which is a private hospital in Kenya. I have been tasked to create a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroidism or not.
 
 b) Defining the Metric for Success
+
+
+
 This project will be successful when:
 
 1)We Identify the most crucial independent variables that affect Hypothyroidism.
@@ -15,6 +22,9 @@ This project will be successful when:
 3)The model achieves atleast 80% accuracy
 
 c) Understanding the Context
+
+
+
 The thyroid gland is an organ located in the base of your neck; it is a butterfly-shaped. It releases hormones that control metabolism:
 
 The endocrine system, which is made up of glands that produce, store, and release significant hormones into the bloodstream in order to enable hormones to reach the body's cells. The thyroid is part of the endocrine system and it gets iodine from the foods we eat and uses it to make two main hormones:
@@ -42,6 +52,9 @@ Have had thyroid surgery (partial thyroidectomy)
 Have been pregnant or delivered a baby within the past six months
 
 d) Recording the Experimental Design
+
+
+
 Data set is collected from repository data which consists of records of thyroid patients. Thyroid data set consists of both boolean or contiunous valued variables.
 
 The project was undertaken using the following design Datasets(hypothyroid.csv)
@@ -65,6 +78,10 @@ Support Vector Machines: Kernel = polynomial , linear , rbf
 Conclusion
 
 e) Data Relevance
+
+
+
+
 The relavance of our data will be answered by the following questions.
 
 How accurate is the data at predicting whether a patient has hypothyroidism or not?
